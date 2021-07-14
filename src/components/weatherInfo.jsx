@@ -41,7 +41,6 @@ const weatherInfo = [{
         temp: "39C"
     }
 ];
-
 export default weatherInfo.map((el) => {
     return (
         <div className="weather">
